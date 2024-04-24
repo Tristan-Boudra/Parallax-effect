@@ -18,7 +18,7 @@ npm install gsap
 
 ## Version
 
-React-parallax-effect: v1.0.0
+React-parallax-effect: v1.0.0 <br/>
 Gsap: v3.12.5
 
 ## Usage
