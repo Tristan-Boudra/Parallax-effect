@@ -27,7 +27,7 @@ In your React application, import the Parallax component and use it as follows:
 
 ```javascript
 import React from "react";
-import { Parallax } from "react-parallax-effect";
+import { Parallax } from "parallax-effect-react";
 
 function App() {
   return (
